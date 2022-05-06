@@ -9,3 +9,4 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 - Added a heading (\<h1\>) to index.html
 - Added a subheading (\<h2\>) to index.html
 - Added a link to (\<a href\>) to index.html
+- Added line break (\<br\>) and selfie (\<img\>)
