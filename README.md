@@ -17,3 +17,4 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 ## May 7, 2022
 - Made the sub-headers red instead of white.
 - Used style inside html tags to move everything to the center of the page (text-align)
+- Use \<b\>, \<i\>, \<sup\>, \<sub\>, \<del\>, and \<ins\>
