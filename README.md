@@ -13,3 +13,6 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 
 ## May 6, 2022
 - Made the background black and the text white (using style inside of html tags)
+
+## May 7, 2022
+- Made the sub-headers red instead of white.
