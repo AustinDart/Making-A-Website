@@ -12,7 +12,8 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 - Added line break (\<br\>) and selfie (\<img\>)
 
 ## May 6, 2022
-- Made the background black and the text white (using style inside of html tags)
+- Used style inside html tags to change colors of background and text (color & background-color)
 
 ## May 7, 2022
 - Made the sub-headers red instead of white.
+- Used style inside html tags to move everything to the center of the page (text-align)
