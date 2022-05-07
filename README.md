@@ -18,3 +18,5 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 - Made the sub-headers red instead of white.
 - Used style inside html tags to move everything to the center of the page (text-align)
 - Use \<b\>, \<i\>, \<sup\>, \<sub\>, \<del\>, and \<ins\>
+- Use \<style\> instead of defining style within individual tags (internal instead of inline).
+- I've opted not to use external styling for now (I might later, though)
