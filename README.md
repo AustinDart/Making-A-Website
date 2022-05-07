@@ -20,3 +20,4 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 - Use \<b\>, \<i\>, \<sup\>, \<sub\>, \<del\>, and \<ins\>
 - Use \<style\> instead of defining style within individual tags (internal instead of inline).
 - I've opted not to use external styling for now (I might later, though)
+- Updated the link to open in a new tab (_blank)
