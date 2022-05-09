@@ -26,3 +26,5 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 ## May 9, 2022
 - Made a table
 - Used internal styling to set the same properties for multiple tags
+
+At this point, I feel I have a decent understanding of HTML, and am going to move to learning CSS.
