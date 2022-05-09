@@ -22,3 +22,7 @@ Join me on my adventure as I learn to make a website (Probably with HTML, CSS, a
 - I've opted not to use external styling for now (I might later, though)
 - Updated the link to open in a new tab (_blank)
 - Add a favicon (my art skills are garbage so ignore that)
+
+## May 9, 2022
+- Made a table
+- Used internal styling to set the same properties for multiple tags
